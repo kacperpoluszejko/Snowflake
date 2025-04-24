@@ -6,4 +6,4 @@ ale w dokumentacji podane są przykłady, dla których wychodzą ładne kształt
 Cała symulacja opiera się na rozwiązaniu zaprezentowanym w artykule: ‘A local cellular model for snow crystal
 growth’ autorstwa Clifford A. Reiter. 
 
-
+![Animacja działania](snow_gif.gif)
